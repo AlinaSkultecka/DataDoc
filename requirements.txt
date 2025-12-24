@@ -1,0 +1,15 @@
+langchain-text-splitters
+openai
+langchain
+langchain-community
+langchain-openai
+langgraph
+python-dotenv
+pypdf
+requests
+pandas
+semantic-router
+pinecone
+google-search-results
+matplotlib
+jupyter
