@@ -53,7 +53,7 @@ Several LangChain tools were created to give the agent functionality:
 - **Final Answer Tool**  
   Compiles results from multiple tools into a structured, readable response  
   
-<img width="1042" height="466" alt="Graph" src="https://github.com/user-attachments/assets/7c849b45-db34-486d-a9dc-5ee0e9e26bc2" />
+<img width="642" height="312" alt="Graph" src="https://github.com/user-attachments/assets/7c849b45-db34-486d-a9dc-5ee0e9e26bc2" />
 
 ---
 
